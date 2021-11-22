@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Poppins;
+  }
+  body {
+    margin: 0px;
+    overflow: hidden;
+    background: #171723;
+    text-align: center;
+  }
+  
+  canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: white;
+  }
+  div{
+    position: absolute;
+    top: 75%;
+    left: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  h1{
+    color: white;
+    font-size: 20px;
+  }
+  
+  h2{
+    color: white;
+    font-size: 25px;
+  }
